@@ -13,6 +13,7 @@
 
 <body class="scrollbar">
     {{-- Prueba de Rama avances --}}
+    {{-- Prueba de Rama avances 2 --}}
     @include('layout.header')
     <!-- Nav principal -->
     <nav class="bg-blue-300 text-black p-1">
