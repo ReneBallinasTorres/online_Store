@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    scrollbar-color: rgb(17, 17, 209) lightblue;
+}
